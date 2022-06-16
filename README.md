@@ -1,2 +1,1 @@
-# Felipe-Hernandez
-This is a Git Hub practice - Coursera
+I am editing the README file. Adding some more details about the project description.
